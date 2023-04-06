@@ -1,6 +1,6 @@
 Model,Smote,Accuracy
 PRF,0,93
-PRF,1,--
+PRF,1,93
 GNB,0,75
 GNB,1,72
 KNN,0,90
