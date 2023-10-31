@@ -5,9 +5,9 @@ RF,0,85
 RF,1,82
 KNN,0,85
 KNN,1,87
-SVC-poly,0,85
+SVC-poly,0,82
 SVC-poly,1,85
-SVC-rbf,0,81
-SVC-rbf,1,80
-GNB,0,73
-GNB,1,77
+SVC-rbf,0,85
+SVC-rbf,1,74
+GNB,0,77
+GNB,1,73
